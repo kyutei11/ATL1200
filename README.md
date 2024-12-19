@@ -311,7 +311,7 @@ ISPの場合，10MHz以外の周波数では確認していません。
 この説明書中におきましては通信アダプタの回路図記事のリンクをご快諾頂きました。
 この場をお借りしてかずやんさんとくりこうさんにお礼申し上げます。
 ```
-Copyright (C) 2023− Koichi Takasaki
+Copyright (C) 2001− Koichi Takasaki
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
